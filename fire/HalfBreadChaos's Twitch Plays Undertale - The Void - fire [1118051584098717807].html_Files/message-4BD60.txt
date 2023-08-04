@@ -1,0 +1,13 @@
+@echo off
+setlocal enabledelayedexpansion
+
+set "days=Sunday Monday Tuesday Wednesday Thursday Friday Saturday"
+for /F "tokens=1 delims= " %%A in ("%days%") do (
+    set /A "dayCount+=1"
+    set "day[!dayCount!]=%%A"
+)
+
+set /A "today=(%DATE:~0,2% - 100) * 7 + %DATE:~3,2% - 1"
+set "currentDay=!day[%today%]!"
+
+echo Today is: %currentDay%

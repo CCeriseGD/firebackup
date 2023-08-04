@@ -1,0 +1,22 @@
+@echo off
+
+setlocal enabledelayedexpansion
+
+REM This script searches for all files in the current directory and its subdirectories
+REM that have the ".txt" extension and counts the number of lines in each file.
+
+set count=0
+
+REM Find all files with ".txt" extension recursively
+for /R %%F in (*.txt) do (
+    if exist "%%F" (
+        set /A lines=0
+        for /F %%L in ('type "%%F" ^| find /C /V ""') do set lines=%%L
+        echo File: %%F
+        echo Number of lines: !lines!
+        echo ----------------------
+        set /A count+=1
+    )
+)
+
+echo Total number of files: %count%

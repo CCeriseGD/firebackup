@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# This script searches for all files in the current directory and its subdirectories
+# that have the ".txt" extension and counts the number of lines in each file.
+
+count=0
+
+# Find all files with ".txt" extension recursively
+while IFS= read -r -d '' file; do
+    if [[ -f "$file" && "$file" == *".txt" ]]; then
+        lines=$(wc -l < "$file")
+        echo "File: $file"
+        echo "Number of lines: $lines"
+        echo "----------------------"
+        ((count++))
+    fi
+done < <(find . -type f -name "*.txt" -print0)
+
+echo "Total number of files: $count"
