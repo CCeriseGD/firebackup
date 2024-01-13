@@ -773,6 +773,9 @@ img{
     margin-top: 0px;
     padding-bottom: 20px;
 }
+.firetext.firetextfirechannel {
+    padding-bottom: 5px;
+}
 .firetext>h2{
     font-size: 32px;
     font-weight: normal;
@@ -795,15 +798,18 @@ img{
     font-size: 16px;
     margin-bottom: 0px;
 }
-.footre>p>a {
+.footre>p>a, .firetext>p>a {
     color: #ffd835;
     text-decoration: none;
     font-size: 16px;
 }
-.footre>p>a:visited {
+.firetext>p {
+    margin-top: 5px;
+}
+.footre>p>a:visited, .firetext>p>a:visited {
     color: #ff3800;
 }
-.footre>p>a:hover {
+.footre>p>a:hover, .firetext>p>a:hover {
     text-decoration: underline;
 }
 
