@@ -70,7 +70,8 @@ html,body{
     font-family:"gg sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size:17px;
     font-weight:400;
-    scroll-behavior:smooth
+    scroll-behavior:smooth;
+    width: 100vw /* bugfix attempt */
 }
 a{
     color:#00aff4;
