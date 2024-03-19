@@ -1,0 +1,222 @@
+7.43
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+7.88
+Voting time remaining:
+Delay Timer vote is 0.1 seconds!
+8.06
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Winning Timer is Now
+9
+Winning Vote is:
+7.81
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Winning Vote is:
+{'x': 0, 'z': 5, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Versilver : Z 0.1
+Delay Timer vote is 0.1 seconds!
+Winning Timer is Now
+Voting time remaining:
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+Votes
+Yanatheweird : z
+Winning Vote is:
+9
+3.65
+Winning Timer is Now
+{'x': 0, 'z': 1, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+{'x': 0, 'z': 1, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+z
+Winning Timer is Now
+Winning Timer is Now
+Winning Timer is Now
+z
+0.1
+Diagonal Votes
+Voting Mode is active!
+Voting time remaining:
+-0.5
+Winning Timer is Now
+0.1
+Winning Timer is Now
+0.1
+Lumiiify : Right
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+Votes
+0.1
+Diagonal Votes
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+0.1
+Winning Timer is Now
+0.1
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Votes
+Winning Vote is:
+Votes
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+{'x': 0, 'z': 1, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Diagonal Votes
+Votes
+Winning Vote is:
+z
+z
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Votes
+Voting Mode is active!
+Voting time remaining:
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+z
+Voting time remaining:
+Voting Mode is active!
+Diagonal Votes
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Diagonal Votes
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 1, '0': 0.5}
+Exception in thread Thread-1225 (gamecontrol):
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Traceback (most recent call last):
+Winning Timer is Now
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+0.1
+    self.run()
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+    self._target(*self._args, **self._kwargs)
+Winning Vote is:
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+Hk_Fan_Snowdragon : Z
+    if command is None:
+Voting time remaining:
+       ^^^^^^^
+-0.16
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+7.7
+-0.27
+0.1
+Votes
+Diagonal Votes
+Diagonal Votes
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+Exception in thread Thread-1232 (gamecontrol):
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+Traceback (most recent call last):
+Winning Vote is:
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+Votes
+    self.run()
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+z
+Exception in thread Thread-1231 (gamecontrol):
+Voting Mode is active!
+    self._target(*self._args, **self._kwargs)
+Voting time remaining:
+Traceback (most recent call last):
+z
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+    if command is None:
+Votes
+    self.run()
+-0.05
+       ^^^^^^^
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+    self._target(*self._args, **self._kwargs)
+Winning Vote is:
+Exception in thread Thread-1233 (gamecontrol):
+Diagonal Votes
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+Traceback (most recent call last):
+Winning Vote is:
+    if command is None:
+z
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+       ^^^^^^^
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+z
+    self.run()
+Winning Vote is:
+Exception in thread Thread-1234 (gamecontrol):
+{'x': 0, 'z': 0, 'up': 0, 'down': 0, 'left': 0, 'right': 0, 'c': 0, '3': 0, 'escape': 0}
+Traceback (most recent call last):
+Diagonal Votes
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+Winning Vote is:
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+z
+    self._target(*self._args, **self._kwargs)
+Diagonal Votes
+    self.run()
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+{'up_right': 0, 'up_left': 0, 'down_right': 0, 'down_left': 0}
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+Winning Vote is:
+    if command is None:
+Winning Vote is:
+    self._target(*self._args, **self._kwargs)
+z
+       ^^^^^^^
+z
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+z
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+    if command is None:
+       ^^^^^^^
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+Proplayen : up
+Voting Mode is active!
+Voting time remaining:
+-0.0
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+Exception in thread Thread-1235 (gamecontrol):
+Traceback (most recent call last):
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+    if command is None:
+       ^^^^^^^
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+Whidderstone : z
+Voting Mode is active!
+Voting time remaining:
+-0.0
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+Exception in thread Thread-1236 (gamecontrol):
+Traceback (most recent call last):
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
+    if command is None:
+       ^^^^^^^
+UnboundLocalError: cannot access local variable 'command' where it is not associated with a value
+Whidderstone : Z
+Voting Mode is active!
+Voting time remaining:
+-0.01
+Time Vote {'9': 0, '8': 0, '7': 0, '6': 0, '5': 0, '4': 0, '3': 0, '2': 0, '1': 0, '0.9': 0, '0.8': 0, '0.7': 0, '0.6': 0, '0.5': 0, '0.4': 0, '0.3': 0, '0.2': 0, '0.1': 0, '0': 0.5}
+Exception in thread Thread-1237 (gamecontrol):
+Traceback (most recent call last):
+  File "D:\Python Stuff\Lib\threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "D:\Python Stuff\Lib\threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+  File "D:\Python Stuff\Twitch Bot\TwitchController.py", line 1548, in gamecontrol
